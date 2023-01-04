@@ -1,0 +1,247 @@
+@media (min-width: 2200px ) {
+    .wrap {
+        display: flex;
+        flex-direction: column;
+        margin: 9vh auto auto auto;
+        width: fit-content;
+        background: linear-gradient(180deg, rgba(37,45,55,1) 0%, rgba(36,41,47,1) 100%);
+        border-radius: 20px;
+        height: content-box;
+    }
+    .thanks-img {
+        background-image: url('../../../public/illustration-thank-you.svg');
+        width: 36vw;
+        background-size: cover;
+        height: 22vw;
+        margin: 4% auto 0.5vh auto;
+    }
+    .selected {
+        background-color: hsl(213, 19%, 18%);
+        border-radius: 19px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: auto;
+        width:40vw;
+    }
+    .selected-text {
+        margin-top: 1.3vh;
+        margin-bottom: 1vh;
+        font-size: 5vw;
+        color: hsl(21, 80%, 46%);
+        font-weight: bold;
+    }
+    .main-thanks {
+        color: hsl(0, 0%, 100%);
+        font-weight: bold;
+        font-size: 7vh;
+        margin: auto;
+    }
+    .sub-thanks {
+        color: hsl(217, 12%, 63%);
+        margin: auto auto 2vh auto;
+        font-size: 3vh;
+        width: 25vw;
+        text-align: center;
+    }
+}
+@media (max-width: 2200px) {
+    .wrap {
+        display: flex;
+        flex-direction: column;
+        margin: 9vh auto auto auto;
+        width: fit-content;
+        background: linear-gradient(180deg, rgba(37,45,55,1) 0%, rgba(36,41,47,1) 100%);
+        border-radius: 20px;
+        height: content-box;
+    }
+    .thanks-img {
+        background-image: url('../../../public/illustration-thank-you.svg');
+        width: 30vw;
+        background-size: cover;
+        height: 20vw;
+        margin: 4% auto 0.5vh auto;
+    }
+    .selected {
+        background-color: hsl(213, 19%, 18%);
+        border-radius: 19px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: auto;
+        width:35vw;
+    }
+    .selected-text {
+        margin-top: 1.3vh;
+        margin-bottom: 1vh;
+        font-size: 4vw;
+        color: hsl(21, 80%, 46%);
+        font-weight: bold;
+    }
+    .main-thanks {
+        color: hsl(0, 0%, 100%);
+        font-weight: bold;
+        font-size: 7vh;
+        margin: auto;
+    }
+    .sub-thanks {
+        color: hsl(217, 12%, 63%);
+        margin: auto auto 2vh auto;
+        font-size: 3vh;
+        width: 25vw;
+        text-align: center;
+    }
+
+
+}
+@media (max-width:937px) {
+    .wrap {
+        display: flex;
+        flex-direction: column;
+        margin: 10vh auto auto auto;
+        width: fit-content;
+        background: linear-gradient(180deg, rgba(37,45,55,1) 0%, rgba(36,41,47,1) 100%);
+        border-radius: 20px;
+        height: content-box;
+    }
+    .thanks-img {
+        background-image: url('../../../public/illustration-thank-you.svg');
+        width: 36vw;
+        background-size: cover;
+        height: 22vw;
+        margin: 4% auto 0.5vh auto;
+    }
+    .selected {
+        background-color: hsl(213, 19%, 18%);
+        border-radius: 19px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 6vh;
+        width:35vw;
+    }
+    .selected-text {
+        margin-top: 1.3vh;
+        margin-bottom: 1vh;
+        font-size: 4vw;
+        width: content-box;
+        height: 20vh;
+        color: hsl(21, 80%, 46%);
+        font-weight: bold;
+    }
+    .main-thanks {
+        color: hsl(0, 0%, 100%);
+        font-weight: bold;
+        font-size: 7vh;
+        margin: auto;
+    }
+    .sub-thanks {
+        color: hsl(217, 12%, 63%);
+        margin: auto auto 2vh auto;
+        font-size: 3vh;
+        width: 25vw;
+        text-align: center;
+    }
+
+
+}
+@media (max-width:640px ) {
+    .wrap {
+        display: flex;
+        flex-direction: column;
+        margin: 10vh auto auto auto;
+        width: fit-content;
+        background: linear-gradient(180deg, rgba(37, 45, 55, 1) 0%, rgba(36, 41, 47, 1) 100%);
+        border-radius: 20px;
+        height: content-box;
+    }
+
+    .thanks-img {
+        background-image: url('../../../public/illustration-thank-you.svg');
+        width: 36vw;
+        background-size: cover;
+        height: 22vw;
+        margin: 4% auto 0.5vh auto;
+    }
+
+    .selected {
+        background-color: hsl(213, 19%, 18%);
+        border-radius: 19px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 5vh;
+        width: content-box;
+    }
+
+    .selected-text {
+        margin-top: 1.4vh;
+        margin-bottom: 1vh;
+        font-size: 4vw;
+        color: hsl(21, 80%, 46%);
+        font-weight: bold;
+    }
+
+    .main-thanks {
+        color: hsl(0, 0%, 100%);
+        font-weight: bold;
+        font-size: 7vh;
+        margin: auto;
+    }
+
+    .sub-thanks {
+        color: hsl(217, 12%, 63%);
+        margin: auto auto 2vh auto;
+        font-size: 3vh;
+        width: 50vw;
+        text-align: center;
+    }
+}
+@media (max-width: 360px) {
+    .wrap {
+        display: flex;
+        flex-direction: column;
+        margin: 20vh auto auto auto;
+        width: fit-content;
+        background: linear-gradient(180deg, rgba(37,45,55,1) 0%, rgba(36,41,47,1) 100%);
+        border-radius: 20px;
+        height: content-box;
+    }
+    .thanks-img {
+        background-image: url('../../../public/illustration-thank-you.svg');
+        width: 36vw;
+        background-size: cover;
+        height: 22vw;
+        margin: 4% auto 0.5vh auto;
+    }
+    .selected {
+        background-color: hsl(213, 19%, 18%);
+        border-radius: 19px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        height: 5vh;
+        width:content-box;
+    }
+    .selected-text {
+        margin-top: 1.3vh;
+        margin-bottom: 1vh;
+        font-size: 4vw;
+        color: hsl(21, 80%, 46%);
+        font-weight: bold;
+    }
+    .main-thanks {
+        color: hsl(0, 0%, 100%);
+        font-weight: bold;
+        font-size: 7vh;
+        margin: auto;
+    }
+    .sub-thanks {
+        color: hsl(217, 12%, 63%);
+        margin: auto auto 2vh auto;
+        font-size: 3vh;
+        width: 50vw;
+        text-align: center;
+    }
+
+}
